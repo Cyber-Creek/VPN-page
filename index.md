@@ -10,7 +10,7 @@ Cyber Creek hosts VPN servers for plenty of different reasons but the main two r
 
 |IP|IPv6 capable?|Country|Host name|
 |-|-|-|-|
-|213.136.87.237|:white_check_mark:|germany|relay.de.cyber-creek.us|
+|213.136.87.237|yes|germany|relay.de.cyber-creek.us|
 
 # Reasons why we show this
 
